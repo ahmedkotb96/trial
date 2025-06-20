@@ -1,3 +1,5 @@
+// Skills section displaying a list of frontend and web development skills.
+
 const Skills = () => {
   const skills = [
     "HTML5", "CSS3", "JavaScript", "TypeScript", "React",

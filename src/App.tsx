@@ -1,3 +1,5 @@
+// Main application component that composes the Navbar, Hero, Skills, and Contact sections.
+
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Skills from './components/Skills'

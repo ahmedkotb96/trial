@@ -1,3 +1,5 @@
+// Hero section introducing the user with name, title, social links, and a call-to-action button.
+
 const Hero = () => {
   return (
     <section className="hero" style={{ 

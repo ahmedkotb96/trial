@@ -1,3 +1,5 @@
+// Contact section with a modern styled form for users to send messages.
+
 const Contact = () => {
   return (
     <section id="contact" className="contact-section-new">

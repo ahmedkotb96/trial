@@ -1,3 +1,5 @@
+// Responsive navigation bar with sticky behavior and active section highlighting.
+
 import { useState, useEffect } from 'react'
 
 const Navbar = () => {

@@ -1,4 +1,4 @@
-/* @tailwind directives removed because Tailwind CSS is not being processed */
+/* Main global stylesheet for the app, including custom variables, layout, animations, and modern UI styles. */
 
 :root {
   --primary-color: #20c997;

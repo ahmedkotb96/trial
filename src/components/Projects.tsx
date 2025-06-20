@@ -1,3 +1,5 @@
+// Projects section displaying a grid of project cards with images, descriptions, and technologies used.
+
 const Projects = () => {
   const projects = [
     {

@@ -1,3 +1,5 @@
+// Entry point for the React app; renders the App component and sets up scroll animations.
+
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App'
